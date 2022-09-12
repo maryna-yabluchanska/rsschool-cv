@@ -68,3 +68,7 @@ function oddOrEven(array) {
 - Polish - Fluent
 - Russian - Native
 - Ukranian - Native
+
+
+### My projects
+- [CV page] https://maryna-yabluchanska.github.io/rsschool-cv/cv
