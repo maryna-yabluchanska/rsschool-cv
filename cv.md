@@ -39,7 +39,28 @@ I've been working as markup developer for some time, now I'm in progress of impr
   Master's degree.
 
   Specialty: “International economic activity“
+- **freecodecamp** Front End Development Libraries
+- **codecademy** Front-End Engineer
+- **pluralsight** React 17: Getting Started
 
+## Code Example
+
+
+```
+function oddOrEven(array) {
+    var sum = array.reduce(function (a, b) {
+        return a + b;
+    },0);
+    if(sum%2==0){
+      return 'even';
+       
+       }
+    else{
+       return 'odd';
+    }
+
+}
+```
 
 ## Languages
 
